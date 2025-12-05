@@ -1,5 +1,6 @@
-
-<h2 align="left"> Hello world!, I'm Frances</h2><br>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=ff69b4&width=500&lines=Hello+world!+I'm+Frances" alt="Typing animation" />
+</p>
 Welcome to my playgound! I am exploring new technologies and building things I love.
 
 <h2 align="left">About me</h2>
@@ -14,26 +15,31 @@ Welcome to my playgound! I am exploring new technologies and building things I l
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,tailwind,firebase,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,react,vscode,figma,git"/>
-</div>
+</div><br>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <img 
-    width="390"
-    src="https://github-readme-streak-stats-francodestudio.vercel.app/?user=francodestudio&count_private=true&theme=default&border_radius=10&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&dates=ffb6c1"
-    alt="streak stats"
-  />
-  <!-- General Stats -->
-  <img 
-    width="390"
-    src="https://github-readme-stats-francodestudio.vercel.app/api?username=francodestudio&count_private=true&show_icons=true&border_radius=10&title_color=ff69b4&text_color=ff69b4&icon_color=ff1493&border_color=ff69b4"
-    alt="readme stats"
-  /><br/>
-  <!-- Top Languages -->
-  <img 
-    width="325"
-    src="https://github-readme-stats-francodestudio.vercel.app/api/top-langs/?username=francodestudio&hide=HTML&langs_count=8&layout=compact&border_radius=10&title_color=ff69b4&text_color=ff69b4&border_color=ff69b4"
-    alt="top langs"
-  />
-</div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francode](https://github.com/anuraghazra/github-readme-stats)
+<table align="center" >
+  <tr>
+    <!-- Streak Stats -->
+    <td>
+      <img width="600"
+           src="https://streak-stats.demolab.com?user=francodestudio&theme=dark&count_private=true&border_radius=10&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideNums=ff69b4&sideLabels=ff1493&dates=ffffff"
+           alt="streak stats"/>
+    </td>
+    <!-- GitHub Stats -->
+    <td>
+      <img width="600"
+           src="https://github-readme-stats-five-kappa-61.vercel.app/api?username=francodestudio&count_private=true&show_icons=true&theme=dark&border_radius=10&title_color=ffffff&text_color=ff69b4&icon_color=ff1493&border_color=ffffff"
+           alt="readme stats"/>
+    </td>
+    <!-- Top Languages -->
+    <td>
+      <img width="600"
+           src="https://github-readme-stats-five-kappa-61.vercel.app/api/top-langs/?username=francodestudio&hide=HTML&langs_count=8&layout=compact&border_radius=10&theme=dark&title_color=ff1493&text_color=ff69b4&border_color=ffffff"
+           alt="top langs"/> </td>
+  </tr>
+</table>
+
+
+
+
+
