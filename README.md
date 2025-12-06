@@ -6,7 +6,7 @@ Welcome to my playgound! I am exploring new technologies and building things I l
 <h2 align="left">About me</h2>
 <div align="left"> 
 🌱 Currently learning: Full-Stack Development + ML<br>
-🔭 Working on: Portfolio website<br>
+🔭 Working on: Portfolio website and a wellness mobile app<br>
 ⚡ Fun fact: I create Stories
 </div>
 
