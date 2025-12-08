@@ -9,7 +9,7 @@ Welcome to my playgound! I am exploring new technologies and building things I l
 🔭 Working on: Portfolio website and a wellness mobile app<br>
 ⚡ Fun fact: I create Stories
 </div>
-
+ 
 
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <div align="center">
