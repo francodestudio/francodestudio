@@ -14,7 +14,7 @@ Welcome to my playgound! I am exploring new technologies and building things I l
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,tailwind,firebase,mongodb" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vscode,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vscode,figma,git"/> 
 </div><br>
 
 <table align="center" >
