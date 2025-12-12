@@ -22,7 +22,7 @@ Welcome to my playgound! I am exploring new technologies and building things I l
     <!-- Streak Stats -->
     <td>
       <img width="600"
-           src="https://streak-stats.demolab.com?user=francodestudio&theme=dark&count_private=true&border_radius=10&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideNums=ff69b4&sideLabels=ff1493&dates=ffffff"
+           src="https://github-readme-streak-stats-39q9.vercel.app?user=francodestudio&theme=dark&count_private=true&border_radius=10&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideNums=ff69b4&sideLabels=ff1493&dates=ffffff"
            alt="streak stats"/>
     </td>
     <!-- GitHub Stats -->
