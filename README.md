@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/francodestudio/francodestudio/blob/main/animation.gif?raw=true" width="400" height="220" />
   <img src="https://github.com/francodestudio/francodestudio/blob/main/animation.gif?raw=true" width="400" height="220" />
 </p>
