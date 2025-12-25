@@ -39,7 +39,7 @@
     <!-- Top Languages -->
     <td>
       <img width="600"
-           src="https://github-readme-stats-five-kappa-61.vercel.app/api/top-langs/?username=francodestudio&hide=HTML&langs_count=8&layout=compact&border_radius=10&theme=dark&title_color=ff1493&text_color=ff69b4&border_color=ffffff"
+           src="https://github-readme-stats-five-kappa-61.vercel.app/api/top-langs/?username=francodestudio&hide=HTML&langs_count=8&layout=compact&border_radius=10&theme=dark&title_color=ffffff&text_color=ff69b4&border_color=ffffff"
            alt="top langs"/> </td>
   </tr>
 </table>
