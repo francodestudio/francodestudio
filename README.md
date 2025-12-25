@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true" width="1200" height="300" />
+  <img src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true" width="400" height="300" />
 </p>
 
 <p align="left">
