@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true" width="800" height="300" />
+  <img src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true" width="1000" height="200" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=ff69b4&width=500&lines=Hello+world!+I'm+Frances" alt="Typing animation" /><br>
+  Welcome to my playgound! I am exploring new technologies and building things I love.
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=ff69b4&width=500&lines=Hello+world!+I'm+Frances" alt="Typing animation" />
-</p>
-Welcome to my playgound! I am exploring new technologies and building things I love.
 
 
 <h2 align="left">About me</h2>
