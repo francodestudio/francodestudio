@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://github.com/francodestudio/francodestudio/blob/main/animation.gif?raw=true" width="420" height="220" />
-  <img src="https://github.com/francodestudio/francodestudio/blob/main/animation.gif?raw=true" width="420" height="220" />
+  <img src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true" width="420" height="220" />
+  <img src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain-reverse.gif?raw=true" width="420" height="220" />
 </p>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=ff69b4&width=500&lines=Hello+world!+I'm+Frances" alt="Typing animation" /><br>
