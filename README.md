@@ -30,8 +30,8 @@
 
 <h2 align="left">About me</h2>
 
-    🌱 Currently learning: Full-Stack Development + ML <br>
-    🔭 Working on: Portfolio website and a wellness mobile app<br> 
+    🌱 Currently learning: Full-Stack Development + ML 
+    🔭 Working on: AI Shopping Assistant
     ⚡ Fun fact: I create Stories
 
  
