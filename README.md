@@ -1,15 +1,6 @@
 
 <table>
   <tr>
-    <td width="450">
-      <a href="https://francodestudio.github.io/GitBrain/">
-        <img
-          src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true"
-          width="420"
-          height="300"
-        />
-      </a>
-    </td>
 
   <td valign="center">
     <img
@@ -22,6 +13,16 @@
     
     I am exploring new technologies 💻
     and building things I love ⚡❤️
+
+   <td width="400">
+      <a href="https://francodestudio.github.io/GitBrain/">
+        <img
+          src="https://github.com/francodestudio/francodestudio/blob/main/gitbrain.gif?raw=true"
+          width="400"
+          height="300"
+        />
+      </a>
+    </td>
     
   </tr>
 </table>
