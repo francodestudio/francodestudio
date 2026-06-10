@@ -20,7 +20,8 @@
 
     Welcome to my playground! 🚀
     
-    I am exploring new technologies and building things I love.
+    I am exploring new technologies 💻
+    and building things I love ⚡❤️
     
   </tr>
 </table>
