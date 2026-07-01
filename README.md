@@ -32,7 +32,7 @@
 <h2 align="left">About me</h2>
 
     🌱 Currently learning: Full-Stack Development + ML 
-    🔭 Working on: AI Shopping Assistant
+    🔭 Working on: Trip Planning Agent
     ⚡ Fun fact: I create Stories
 
  
